@@ -1,0 +1,13 @@
+
+name: room_rental_app
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.0.0+4
+  path_provider: ^2.0.2
+  pdf: ^3.3.0
+  intl: ^0.18.0
+  firebase_auth: ^4.2.5
+  flutter_localizations:
+    sdk: flutter
+  
